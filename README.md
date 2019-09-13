@@ -1,1 +1,1 @@
-# sega-genesis-heman
+# sega-megadrive-genesis-heman
